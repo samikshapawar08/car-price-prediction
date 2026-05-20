@@ -62,28 +62,20 @@ It highlights my ability to:
 ---
 
 ## 🔄 Workflow
-## 🔄 Workflow
 
-```mermaid
-flowchart LR
-
-A[Raw Dataset]
---> B[Python Data Cleaning]
-
-B
---> C[SQL Analysis]
-
-C
---> D[Feature Engineering]
-
-D
---> E[Power BI Dashboard]
-
-E
---> F[Business Insights]
+```text
+Raw Dataset
+     ↓
+Python Data Cleaning
+     ↓
+SQL Analysis
+     ↓
+Feature Engineering
+     ↓
+Power BI Dashboard
+     ↓
+Business Insights
 ```
-
----
 
 # 🛠️ Tech Stack
 
@@ -195,14 +187,6 @@ SQL queries were used to:
 
 ---
 
-# 👩‍💻 Author
-
-## Samiksha Pawar
-
-Aspiring Data Analyst & Full-Stack Developer  
-Currently pursuing SYBSc IT
-
----
 
 # 🤝 Connect With Me
 
